@@ -24,3 +24,5 @@ Project analysis
 Here is the design proposal using Figma: https://www.figma.com/file/Dyt2t37neuoFI8V7SmwI6z/HyperMedia-Project-Part1?node-id=1%3A2.
             
             I've added it as PDF aswell.
+            
+            And finally here's the website url: https://davidmolina2001.github.io/Hypermedia-Project-Part1/ .
